@@ -4,7 +4,7 @@ irc node bot with trakt.tv, last.fm, urban dictionary, and more functionality
 ## Installation
 In the directory you want to install the b0t, run:
 ```
-git clone https://github.com/z0mbieparade/b0t.git
+git clone https://github.com/AE/b0t.git
 cd b0t
 npm install
 ```
